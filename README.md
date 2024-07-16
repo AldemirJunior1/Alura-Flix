@@ -39,9 +39,3 @@ Para a montagem do projeto foi nos fornecido um Figma e para a realização das 
 
 - Modelo Figma: [Figma - New AluraFlix](https://www.figma.com/design/06e5IXeOVl8QvA3mm4TENR/New-AluraFlix---PT?node-id=1-106&t=hZCjwhyUa4dD113n-0)
 - Trello: [Trello - New AluraFlix](https://trello.com/b/IKEVUOor/new-aluraflix-pt)
-
-## Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/alura-flix.git
